@@ -1,8 +1,16 @@
-[{
-    "id": "1",
-    "email": "admin@school.edu",
-    "full_name": "System Admin",
-    "password": "123ssag@43AE",
-    "role": "Admin",
-    "registered_at": "..."
-}]
+[
+    {
+        "id": "1",
+        "email": "admin@school.edu",
+        "full_name": "System Admin",
+        "password": "123ssag@43AE",
+        "role": "Admin",
+        "registered_at": "..."
+    },
+    {
+        "id": "6ebae56e-2b4f-4f3f-8fff-0fde6602d2a4",
+        "email": "ejmlyn004@gmail.com",
+        "password": "blahblach",
+        "role": "Instructor"
+    }
+]
